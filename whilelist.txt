@@ -1,2 +1,9 @@
-*.animeflv.net
-
+animeflv.net
+www.animeflv.net
+s1.animeflv.net
+s2.animeflv.net
+s3.animeflv.net
+s4.animeflv.net
+s5.animeflv.net
+static.animeflv.net
+img.animeflv.net
