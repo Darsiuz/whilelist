@@ -1,3 +1,2 @@
-@@||animeflv.net^
-@@||*.animeflv.net^
-@@||animeflv.net^
+*.animeflv.net
+
